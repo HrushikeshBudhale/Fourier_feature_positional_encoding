@@ -1,8 +1,6 @@
 # Fourier_feature_positional_encoding
-Experiments with 2D positional encoding
-
-minimal implementation of paper [Fourier Features Let Networks Learn
-High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.10739.pdf)
+This is a minimalistic implementation of paper [Fourier Features Let Networks Learn
+High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.10739.pdf) for the purpose of understanding and experimenting with fourier feature encoding in 2D which is main invention behind NeRF's success.
 
 ## Input
 
